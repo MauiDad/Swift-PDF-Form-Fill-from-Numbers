@@ -17,6 +17,7 @@ Hey, I’m not the world’s best programmer by any measure. I am writing this p
 	* The script skips blank cells in moving to the left.
 	* Multiple indices on a single line are separated by commas. “12,13”
 	* To skip a cell in Numbers, include a blank . “12,,13”
+	* The formatted value in Numbers, including custom formats, are imported.  
 
 ![](https://github.com/MauiDad/Swift-PDF-Form-Fill-from-Numbers/blob/master/Untitled%202.png)
 
