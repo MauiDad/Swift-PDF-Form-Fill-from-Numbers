@@ -10,7 +10,7 @@ Hey, I’m not the world’s best programmer by any measure. I am writing this p
 #  Usage
 * Create PDF Index, specify the PDF file, the script creates a duplicate in the same folder.  Each text based annotation field is updated with the index number of the annotation.  Use this index to link you Numbers table data to the field.
 
-[image:97476D26-18BC-4A7E-BAF5-F76219CF84E4-8049-00004E117B0D08BB/DFEC79B7-B36A-4785-8EC3-453267164A62.png]
+![](https://github.com/MauiDad/Swift-PDF-Form-Fill-from-Numbers/blob/master/Untitled.png)
 
 * In Numbers, specify a column to the right  of the form data with the name “PDFLink”, format  this column as text, (or enter index numbers in the field as text.  Every table in the sheet is  scanned and the total results are used.
 	* The form data can be in the adjacent left column to PDFLink, or several columns to the left.
@@ -18,7 +18,7 @@ Hey, I’m not the world’s best programmer by any measure. I am writing this p
 	* Multiple indices on a single line are separated by commas. “12,13”
 	* To skip a cell in Numbers, include a blank . “12,,13”
 
-![](Swift-Numbers%20to%20PDF%20Forms%20Scripts/BF26DD38-0314-40CA-A5DB-2113CE2B0626.png)
+![](https://github.com/MauiDad/Swift-PDF-Form-Fill-from-Numbers/blob/master/Untitled%202.png)
 
 # WorkFlow:
 The workflow for this script will ultimately be:
